@@ -1,5 +1,5 @@
 - 👋 oii, meu nome @juhnoda
-- 👀 meu email de contato é julia.noda@escola.pr.gov.br 
+- 👀 meu email de contato é [email](julia.noda@escola.pr.gov.br)
 - 💞️ estou aprendendo a programar recentemente, por conta das aulas de pensamento computacional
 - 
 <!---
